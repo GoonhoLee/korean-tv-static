@@ -2,7 +2,7 @@
 # 自动生成时间: 2026-03-04 19:46:49
 
 #EXTINF:-1 tvg-id="KBS1.kr",KBS1
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzI4NzQzMjd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=jEQ7WeIjZ5hjMcKpGPiN--ApTIrqDmcl9RGYjBGPF8CSZ--Tv4Ce0E4aZSDFKDoNoUHqW5Mq2bIBgzMV-s~WVwdq2yDYAlE1Ce2A8ycMfWfK4zGygtTB~CmHDlo7cGoPR5wNNNo4Kl8ahdqaoXyGNXc4~DVbmQQkw5QQheYQ2c2n3b4OaUiAJd5rMmHOKhg9T5PJ6Wr0oln8UvcXLFeu8FDnxrBgRuVOsoRQqe9RFHkj0ahbGqCQcWbLhx06PHGhNZY~dnF4mHI1PGOiekB9JDYm4fGrrHxWHxokgzQMXxsmMJVI~ZFNAaYBdfv3n2ejuLAoK6ObC5rwvz5~9ppksQ__
 
 #EXTINF:-1 tvg-id="KBS2.kr",KBS2
 https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8
